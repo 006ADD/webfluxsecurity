@@ -1,4 +1,4 @@
-package net.prostyle.webfluxsecurity;
+package net.proselyte.webfluxsecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
